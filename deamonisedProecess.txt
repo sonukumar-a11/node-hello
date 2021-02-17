@@ -1,1 +1,3 @@
 Here Some extra Command used to deamonised the process
+
+"BUILD_ID=dontKillMe nohup node index.js"
